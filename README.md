@@ -1,0 +1,6 @@
+# php三进三出拆分系统源码 股权拆分【三百六】
+
+详情说明<br>php三进三出股权拆分盘三盘分盘循环拆分系统源码，全新改版，内附安装说明<br>程序内核：thinkphp<br>运行环境：PHP+Mysql<br>代理级别 体验会员 一星 二星 三星 四星 五星 六星 代理金额 [RMB] 无 100 300 1000 2500 5000 10000 gupiao配送 无 100股 150股 500股 1250股 2500股 5000股 推荐奖 无 40 40 40 40 40 40 业绩奖 无 5 6 7 8 9 10 业绩日封顶 无 100 300 1000 2500 5000 10000 领导奖 无 上1代2 上1代2 上1代2 上1代2 上1代2 上1代2 gupiao<br>分红 无 1 1 1 1 1 1 分红周期 无 30天 30天 30天 30天 30天30天 报单奖 按激活时间先后计算一条线拿后面加入10个人业绩奖金收入的2<br>1、推荐奖：根据代理级别，无论您推荐的人放置在哪里都享受5-10的推荐奖。<br>2、业绩奖：左右区出现1：1您就可以拿到5-10的拓展奖励，大区业绩累计不归零。<br>3、领导奖：拿您上面第1代（直接推荐人）拓展奖的2，彻底打破下级不能享有上级业绩的局限。<br>4、报单奖：按激活时间先后计算一条线拿后面加入10个人拓展奖金收入的2。<br>5、example.com，系统将自动卖出，卖出后交易利润的90回到现金账户（可提现）;10的资金系统自动为保留金，累计达到2024元即可开始享有每日1gupiao分红，分红周期为7天。<br>6、商务中心：六星会员自动生成商务中心，拥有新会员激活资格，并享有报单补贴2<br>7、原点升级：需补齐相应级别差额（补单升级），升级后的gupiao配送比例将自动补齐级别配送比例差额。<br>8、example.com，example.com;奖金提现为100的倍数，提现手续费10，24小时内到账。<br>9、当gupiao涨至1元时公司自动为用户配送gupiao股份。 注：公司首期发行500万原始gupiao<br>，example.com，之后不在发行;当涨升至1元时进行gupiao<br>拆分。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/9j0dF" style="color: red;">https://mega-file.org/9j0dF</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
